@@ -1,0 +1,33 @@
+_repo: Sketches-in-Egypt_68568
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gibson, Charles Dana
+    alias: Gibson, C. D. (Charles Dana)
+    birthdate: 1867
+    deathdate: 1944
+    gutenberg_agent_id: '26456'
+    url: http://www.gutenberg.org/2009/agents/26456
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Dana_Gibson
+description: Illustrated by the author.
+gutenberg_issued: '2022-07-19'
+identifiers:
+  gutenberg: '68568'
+  lccn: '99004646'
+language: en
+pgterms:marc905: 20220710055024gibson
+pgterms:marc906: '1899'
+pgterms:marc907: US
+production_note: Chuck Greif (This file was produced from images available at Google
+  Books)
+publication_note: United States :Doubleday & McClure Co.,1899.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nile River'
+- !lcc 'DT'
+- !lcsh 'Egypt -- Description and travel'
+- GITenberg
+title: Sketches in Egypt
+url: http://www.gutenberg.org/ebooks/68568
